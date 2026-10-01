@@ -1,2 +1,23 @@
-# starter-prompt-generator
-Starter Prompt Generator – erstellt strukturierte und direkt kopierbare Gesprächsaufhänger für Agenten.
+# Starter Prompt Generator
+
+## Mandat
+
+Starter Prompt Generator übernimmt direkt kopierbare Gesprächsaufhänger für klar abgegrenzte Agentenrollen erzeugen.
+
+## Systemposition
+
+- Clarity Master Flow koordiniert Auftrag, Priorität, Kontext und Übergaben.
+- Executor prüft strukturelle Änderungen, Risiken und Widersprüche unabhängig.
+- Finale Entscheidung: Super Lenusi / Developer.
+
+## Dokumente
+
+- AGENTS.md: Rolle, Grenzen und Eskalation
+- WORKFLOW.md: Arbeitsfolge und Qualitätsprüfung
+- INTERFACES.md: Ein- und Ausgabeformat sowie Übergaben
+- EXAMPLES.md: prüfbare Anwendungsbeispiele
+- AGENT_INTERPRETATION.md: Digital-Buddha-Auslegung für diese Rolle
+
+## Nachweisgrenze
+
+Dieses Repository dokumentiert die Soll-Logik. Es belegt keine aktive ChatGPT- oder Workspace-Konfiguration.
